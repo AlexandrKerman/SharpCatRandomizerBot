@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 image_src/
+src/text_source.py
